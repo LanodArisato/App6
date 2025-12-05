@@ -1,3 +1,3 @@
 theme: jekyll-theme-minimal
-title: Morjal RTS Application 6
-description: A simple demo website showcasing my Viable Engineering Solution robotic arm control system for Application 6.
+title: Robotic Arm Control System
+description: Control system for a robotic arm using ESP32 and FreeRTOS
